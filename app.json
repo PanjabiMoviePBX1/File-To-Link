@@ -79,13 +79,13 @@
           "required": false
       },
       "FQDN": {
-          "description": "Read the readme for more info about this var  **Leave Empty for heroku**",
-          "required": false
+          "description": "https://pbx1filetolinkbotz-a22676275af8.herokuapp.com/",
+          "required": True
       },
       "name": {
           "description": " Session Name for Bot [ Add adarsh-goel]",
           "value": "File-To-Link",
-          "required": false
+          "required": False
       }
   },
   "buildpacks": [{
